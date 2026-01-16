@@ -6,6 +6,7 @@ pub mod backup;
 pub mod cache;
 pub mod config;
 pub mod handler;
+pub mod structure;
 
 use crate::config::db::create_db_pool;
 use crate::handler::connect::Handler;
