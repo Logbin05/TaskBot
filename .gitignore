@@ -1,0 +1,8 @@
+# env variable 
+.env
+
+# development or build
+/target
+src/backup
+src/config
+src/cache
